@@ -1,1 +1,1 @@
-# Deep-Neural-Network---Application-Object-classification
+# Object-classification using Deep-Neural-Network
